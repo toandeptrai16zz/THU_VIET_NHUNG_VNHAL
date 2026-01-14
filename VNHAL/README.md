@@ -1,4 +1,4 @@
-# VNHAL - THƯ VIỆN LẬP TRÌNH NHÚNG ESP32 (HÀNG VIỆT NAM) V1.0
+# VNHAL - THƯ VIỆN LẬP TRÌNH NHÚNG ESP32 ( VIỆT HÓA, TỐI ƯU) V1.0
 
 ## Giới thiệu
 Chào anh em, đây là bộ thư viện tôi tự viết từ A-Z, chọc thẳng vào thanh ghi, KHÔNG phụ thuộc Arduino, KHÔNG phụ thuộc framework lằng nhằng.
