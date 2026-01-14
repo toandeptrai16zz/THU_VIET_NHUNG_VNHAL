@@ -24,7 +24,7 @@ Nén toàn bộ thư mục lại.
 Thêm vào `platformio.ini`:
 ```ini
 lib_deps = 
-    [https://github.com/TenGitHubCuaOng/VNHAL.git](https://github.com/TenGitHubCuaOng/VNHAL.git)
+    https://github.com/toandeptrai16zz/THU_VIET_NHUNG_VNHAL.git
 ```    
 ---
 
