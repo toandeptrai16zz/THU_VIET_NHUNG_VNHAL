@@ -1,0 +1,19 @@
+{
+  "name": "VNHAL",
+  "version": "1.0.0",
+  "description": "Thu vien HAL dieu khien ESP32  Viet Nam",
+  "keywords": "esp32, register, hal, vietnamese",
+  "repository": {
+    "type": "git",
+    "url": "Linl git tạm thời trống"
+  },
+  "authors": [
+    {
+      "name": "Ha Quang Chuong",
+      "email": "haquangchuong@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32"]
+}

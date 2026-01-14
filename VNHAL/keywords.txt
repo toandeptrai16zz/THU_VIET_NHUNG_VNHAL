@@ -1,0 +1,23 @@
+# Syntax Coloring Map for VNHAL
+#######################################
+# Datatype (KEYWORD1)
+#######################################
+
+VNHAL	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+CauHinhChan	KEYWORD2
+GhiDien	KEYWORD2
+DocDien	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+VAO	LITERAL1
+RA	LITERAL1
+CAO	LITERAL1
+THAP	LITERAL1
